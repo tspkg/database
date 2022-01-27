@@ -1,0 +1,6 @@
+{
+  "bogol": {
+    "npmUrl": "https://www.npmjs.com/package/bogol",
+    "install": "npm install -g bogol"
+  }
+}
